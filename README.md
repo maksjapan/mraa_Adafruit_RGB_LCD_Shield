@@ -1,5 +1,7 @@
 # mraa_Adafruit_RGB_LCD_Shield
-Cpp code for Adafruit RGB LCD Shield using the I2C of the MRAA library
+Control the Adafruit RGB LCD Shield using the MRAA I2C library
 
-Code to use the Adafruit RGB LCD Shield (I2C) with the MRAA library.
+Modified off the original Adafruit-RGB-LCD-Shield-library (https://github.com/adafruit/Adafruit-RGB-LCD-Shield-Library).
+The code assumes the MRAA library is installed (https://github.com/intel-iot-devkit/mraa)
+
 Code is tested with Intel Edison with Arduino breakout board.
